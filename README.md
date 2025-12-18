@@ -1,4 +1,4 @@
-# WONDER-LUST
+# WANDER-LUST
 <!DOCTYPE html>
 <html lang="en">
 <head>
